@@ -5,7 +5,7 @@ https://stackoverflow.com/questions/33667782/fatal-error-cant-resolve-host-githu
 https://www.guru99.com/maven-jenkins-with-selenium-complete-tutorial.html
 https://en.wikipedia.org/wiki/Apache_Maven
 
-Git Installation for Linux:
+Git Installation for Linux:.
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
 
